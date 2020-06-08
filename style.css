@@ -5,9 +5,13 @@ h1{
 
 body{
     background-color: grey;
+    display: block;
+    justify-content: center;
 }
 
 .styling{
+    display: block;
+    justify-content: center;
     text-align: center;
     background-color: rgba(238, 255, 0, 0.63);
     height: 40px;
@@ -15,14 +19,10 @@ body{
     margin: 10px;
 }
 
-.name{
-    height: auto;
-    width: auto;
-}
 
 .name p{
     text-align: center;
-    font-size: 200px;
     width: auto;
-    color: chartreuse;
+    font-size: 200px;
+   
 }
