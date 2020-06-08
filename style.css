@@ -7,6 +7,14 @@ body{
     background-color: grey;
 }
 
+.styling{
+    text-align: center;
+    background-color: rgba(238, 255, 0, 0.63);
+    height: 40px;
+    padding: 10px;
+    margin: 10px;
+}
+
 .name{
     height: auto;
     width: auto;
