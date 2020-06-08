@@ -6,3 +6,15 @@ h1{
 body{
     background-color: grey;
 }
+
+.name{
+    height: auto;
+    width: auto;
+}
+
+.name p{
+    text-align: center;
+    font-size: 200px;
+    width: auto;
+    color: chartreuse;
+}
