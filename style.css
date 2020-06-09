@@ -7,6 +7,8 @@ body{
     background-color: grey;
     display: block;
     justify-content: center;
+    position: relative;
+    min-height: 100vh;
 }
 
 .styling{
@@ -26,6 +28,8 @@ body{
     width: auto;
     font-size: 200px;
     color: black;
+    margin-bottom: 2rem;
+
 }
 
 footer{
@@ -40,6 +44,7 @@ footer{
 
 footer a{
     text-decoration: none;
+    font-size: 20px;
 }
 
 footer a:hover{
