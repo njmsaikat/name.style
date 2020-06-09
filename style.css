@@ -20,9 +20,9 @@ body{
 }
 
 
-.name p{
+.name {
     text-align: center;
     width: auto;
     font-size: 200px;
-   
+    color:black; 
 }
